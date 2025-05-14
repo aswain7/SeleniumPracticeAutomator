@@ -23,6 +23,7 @@ public class Demo21 {
         //cntrl+A
         act.keyDown(Keys.CONTROL).sendKeys("A").keyUp(Keys.CONTROL).perform();
 
+
         //cntr+c
         act.keyDown(Keys.CONTROL).sendKeys("c").keyUp(Keys.CONTROL).perform();
 
